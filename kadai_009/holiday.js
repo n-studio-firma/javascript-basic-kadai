@@ -10,7 +10,7 @@ console.log(holidays[i])
 
 // whileを繰り返す
 let i=0
-while (i<15) {
+while (i<16) {
   console.log(holidays[i]);
   i++
 }
